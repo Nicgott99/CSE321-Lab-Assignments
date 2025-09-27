@@ -4,8 +4,8 @@ This repository contains my lab assignments for CSE321 - Operating Systems cours
 
 ## Course Information
 - **Course**: CSE321 - Operating Systems
-- **Institution**: [Your University Name]
-- **Semester**: [Your Semester/Year]
+- **Institution**: BRAC University
+- **Semester**: Summer25
 
 ## Lab Assignments
 
@@ -85,9 +85,9 @@ CSE321-Lab-Assignments/
 - Code follows standard C programming practices
 
 ## Author
-- **Name**: [Your Name]
+- **Name**: Md Hasib Ullah Khan Alvie
 - **Student ID**: [Your Student ID]
-- **Email**: [Your Email]
+- **Email**: hasibullah.khan.alvie@g.bracu.ac.bd
 
 ---
 *This repository is for educational purposes as part of CSE321 coursework.*
