@@ -1,0 +1,39 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables (but we want to keep the specific ones in your assignments)
+# *.exe
+# *.out
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Core dumps
+core.*
+
+# Backup files
+*.bak
+*.backup
